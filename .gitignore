@@ -10,3 +10,5 @@ models/*.joblib
 data/
 .streamlit/secrets.toml
 .streamlit_launch_check.sh
+.agents/
+.claude/
