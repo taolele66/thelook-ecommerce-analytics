@@ -93,4 +93,4 @@ with tab_predict:
         c1, c2 = st.columns(2)
         c1.metric("Predicted churn probability (next 90d)", f"{churn_proba:.1%}")
         c2.metric("Predicted spend (next 90d)", f"${clv_pred:,.2f}")
-        st.dataframe(row.T.rename(columns={row.index[0]: "value"}))
+        st.dataframe(row.T.rename(columns={row.index[0]: "value"}).astype(str))
