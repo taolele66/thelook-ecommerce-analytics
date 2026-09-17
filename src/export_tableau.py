@@ -33,8 +33,19 @@ def export_country_map() -> None:
 
 
 def export_rfm_detail() -> None:
+    """Includes `country` (normalized the same way as the map export) so a
+    Tableau dashboard action can link the country map to this scatter plot —
+    the two shared no field before this, which made cross-filtering between
+    them impossible."""
     rfm = load_table("rfm_user_features", use_cache=False)
-    cols = ["user_id", "frequency", "monetary", "recency_days", "tenure_days", "return_rate", "user_segment"]
+    client = get_client()
+    country = client.query(
+        "SELECT id AS user_id, country FROM `bigquery-public-data.thelook_ecommerce.users`"
+    ).result().to_dataframe()
+    country["country"] = country["country"].replace(COUNTRY_STD)
+
+    rfm = rfm.merge(country, on="user_id", how="left")
+    cols = ["user_id", "country", "frequency", "monetary", "recency_days", "tenure_days", "return_rate", "user_segment"]
     rfm[cols].to_csv(OUT_DIR / "rfm_user_detail.csv", index=False)
     print(f"rfm_user_detail.csv: {len(rfm)} users")
 
