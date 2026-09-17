@@ -1,0 +1,553 @@
+category_a,category_b,co_purchase_orders,lift
+Swim,Tops & Tees,592,0.6851830358138705
+Fashion Hoodies & Sweatshirts,Shorts,581,0.6862381735825644
+Fashion Hoodies & Sweatshirts,Sweaters,575,0.6877189948968837
+Fashion Hoodies & Sweatshirts,Swim,573,0.6663225558013125
+Jeans,Tops & Tees,573,0.6126198626002125
+Fashion Hoodies & Sweatshirts,Jeans,571,0.6133629762469182
+Dresses,Intimates,570,1.2517611192000866
+Shorts,Tops & Tees,568,0.6677318293077531
+Jeans,Sleep & Lounge,561,0.6319966562044954
+Jeans,Swim,548,0.6118864220985559
+Jeans,Shorts,548,0.6214978976921308
+Jeans,Sweaters,545,0.625892924690416
+Fashion Hoodies & Sweatshirts,Tops & Tees,541,0.6023838944651669
+Sleep & Lounge,Tops & Tees,540,0.6305801805280381
+Sweaters,Tops & Tees,540,0.6428237842965181
+Intimates,Maternity,537,1.2554462658947878
+Sleep & Lounge,Swim,537,0.6548994844187099
+Fashion Hoodies & Sweatshirts,Intimates,522,0.5274196449705764
+Fashion Hoodies & Sweatshirts,Sleep & Lounge,521,0.6112646456186425
+Shorts,Swim,504,0.6187825893089874
+Sleep & Lounge,Sweaters,494,0.6196416388561609
+Shorts,Sleep & Lounge,494,0.6119221297598052
+Accessories,Jeans,491,0.6309451875966311
+Intimates,Jeans,489,0.47441129786590086
+Active,Tops & Tees,487,0.6975759336975726
+Shorts,Sweaters,485,0.6124386207662346
+Outerwear & Coats,Tops & Tees,481,0.6909881343434028
+Accessories,Tops & Tees,474,0.6313688035051997
+Intimates,Swim,474,0.4978206976613997
+Accessories,Fashion Hoodies & Sweatshirts,471,0.6303339259312473
+Intimates,Shorts,470,0.5013734277314614
+Accessories,Swim,468,0.651035149352491
+Sweaters,Swim,467,0.5805890811752056
+Intimates,Sleep & Lounge,466,0.49378988071720203
+Intimates,Tops & Tees,460,0.4625925486804242
+Accessories,Sleep & Lounge,458,0.642814586714626
+Accessories,Intimates,453,0.5475360162491013
+Outerwear & Coats,Swim,453,0.679637793890812
+Jeans,Outerwear & Coats,447,0.6194958466528678
+Outerwear & Coats,Sleep & Lounge,440,0.6660297944188122
+Active,Jeans,437,0.6038781659479507
+Pants,Sweaters,436,0.838793620809734
+Pants,Tops & Tees,434,0.7773046591415352
+Accessories,Sweaters,431,0.6166647672406972
+Pants,Underwear,428,1.1971516662441861
+Jeans,Underwear,428,0.7146346744604458
+Accessories,Shorts,426,0.6019175837039572
+Intimates,Sweaters,423,0.4569285103389874
+Tops & Tees,Underwear,422,0.7303775304646047
+Outerwear & Coats,Sweaters,420,0.6480998068840722
+Pants,Sleep & Lounge,419,0.7907351269672602
+Fashion Hoodies & Sweatshirts,Outerwear & Coats,416,0.6004320163717873
+Intimates,Plus,412,1.1348367099493037
+Outerwear & Coats,Shorts,412,0.6278347983494394
+Active,Shorts,406,0.6168949502943172
+Active,Fashion Hoodies & Sweatshirts,403,0.5799794045416731
+Sleep & Lounge,Underwear,392,0.7148854988689158
+Active,Swim,390,0.5834195003712099
+Jeans,Pants,390,0.6738628445897769
+Active,Sweaters,386,0.5939049169382262
+Active,Sleep & Lounge,385,0.5810837425633241
+Fashion Hoodies & Sweatshirts,Pants,385,0.6927990262792101
+Sweaters,Underwear,384,0.7138932336225702
+Socks,Underwear,379,1.2404621626400003
+Intimates,Socks & Hosiery,378,1.1930246359145442
+Fashion Hoodies & Sweatshirts,Underwear,372,0.6468787587497558
+Active,Intimates,369,0.479621459452747
+Pants,Shorts,367,0.6972527879133988
+Accessories,Underwear,363,0.755118771520676
+Swim,Underwear,363,0.6561382926172086
+Pants,Socks,361,1.2226949034889378
+Intimates,Pants & Capris,355,1.2222907525242805
+Intimates,Outerwear & Coats,353,0.46016113016644966
+Accessories,Active,352,0.6060087289923058
+Jeans,Socks,351,0.7096642483260935
+Accessories,Outerwear & Coats,350,0.6043203878273395
+Active,Outerwear & Coats,350,0.6498677665825415
+Pants,Swim,350,0.6546714348158917
+Shorts,Underwear,346,0.6352339570032811
+Active,Underwear,345,0.7717657245494459
+Outerwear & Coats,Pants,337,0.7823946399807068
+Socks,Sweaters,334,0.7518894702687019
+Blazers & Jackets,Intimates,333,1.2199082692918704
+Sleep & Lounge,Socks,333,0.7353602476053507
+Suits & Sport Coats,Underwear,332,1.2875467428713245
+Socks,Tops & Tees,331,0.6936948040288602
+Outerwear & Coats,Underwear,331,0.74260414858843
+Intimates,Leggings,324,1.209893341151756
+Shorts,Socks,323,0.7180680837684865
+Active,Pants,319,0.7384543671496389
+Fashion Hoodies & Sweatshirts,Socks,310,0.6527503890435448
+Socks,Swim,303,0.6631883406364812
+Jeans,Suits & Sport Coats,299,0.7163043816437646
+Accessories,Pants,295,0.6350343912696946
+Pants,Suits & Sport Coats,295,1.183895923495241
+Fashion Hoodies & Sweatshirts,Suits & Sport Coats,294,0.7335224073621005
+Suits & Sport Coats,Tops & Tees,290,0.7201435160257849
+Accessories,Socks,281,0.7078161313860896
+Sleep & Lounge,Suits & Sport Coats,274,0.7169470586482629
+Shorts,Suits & Sport Coats,271,0.7138599242875526
+Suits & Sport Coats,Sweaters,270,0.720197997234726
+Outerwear & Coats,Socks,268,0.7280641822549588
+Accessories,Suits & Sport Coats,260,0.7760113857524733
+Socks,Suits & Sport Coats,257,1.2068784675174762
+Dresses,Maternity,246,1.3840603881861688
+Active,Socks,238,0.6446868972498789
+Outerwear & Coats,Suits & Sport Coats,237,0.7628933463956538
+Suits & Sport Coats,Swim,235,0.6094565168578815
+Intimates,Skirts,231,1.3396350446468772
+Active,Suits & Sport Coats,230,0.7382106930472961
+Dresses,Swim,218,0.5509944059728485
+Dresses,Jeans,218,0.508977689694722
+Dresses,Sleep & Lounge,214,0.5457153010433549
+Maternity,Swim,207,0.5569783097780111
+Dresses,Tops & Tees,205,0.4961245876770274
+Dresses,Fashion Hoodies & Sweatshirts,196,0.4765823550657714
+Maternity,Sleep & Lounge,188,0.5103727146483343
+Jeans,Maternity,187,0.4647946285302607
+Fashion Hoodies & Sweatshirts,Maternity,185,0.4788845848853373
+Dresses,Sweaters,184,0.47832359138376657
+Dresses,Shorts,184,0.47236462561525466
+Accessories,Dresses,183,0.5323063759178879
+Plus,Swim,179,0.5674574273849018
+Dresses,Plus,179,1.1865479123909097
+Maternity,Shorts,176,0.4810048473068008
+Accessories,Maternity,171,0.5295219046599922
+Socks & Hosiery,Swim,171,0.6211518976437386
+Maternity,Socks & Hosiery,170,1.3746111537244015
+Maternity,Tops & Tees,170,0.4379888480004221
+Maternity,Plus,166,1.1714333339974365
+Fashion Hoodies & Sweatshirts,Plus,165,0.5032170989281599
+Active,Dresses,162,0.5067378486172117
+Accessories,Plus,160,0.5837408939409675
+Dresses,Pants & Capris,159,1.3174659083111357
+Plus,Shorts,158,0.5087520690770609
+Fashion Hoodies & Sweatshirts,Socks & Hosiery,158,0.5521409835461755
+Maternity,Sweaters,156,0.4317236279719825
+Dresses,Socks & Hosiery,156,1.1848907225691347
+Jeans,Plus,156,0.4568318853560233
+Jeans,Socks & Hosiery,155,0.5200977327270432
+Active,Maternity,153,0.5094915680646936
+Socks & Hosiery,Tops & Tees,152,0.5286783035863919
+Plus,Tops & Tees,150,0.4553210270122035
+Dresses,Outerwear & Coats,149,0.46743107668202555
+Plus,Sweaters,146,0.4760432283819735
+Blazers & Jackets,Dresses,143,1.260709622971624
+Maternity,Outerwear & Coats,142,0.4742386001542298
+Blazers & Jackets,Jeans,141,0.5491584931386349
+Dresses,Leggings,141,1.267118633919211
+Active,Plus,141,0.5531934116569808
+Blazers & Jackets,Shorts,139,0.5952654600053651
+Blazers & Jackets,Swim,139,0.5860596695082684
+Maternity,Pants & Capris,137,1.2084816773919338
+Socks & Hosiery,Sweaters,136,0.5081055006131794
+Blazers & Jackets,Fashion Hoodies & Sweatshirts,135,0.5475855708202633
+Blazers & Jackets,Plus,135,1.49280250999001
+Leggings,Swim,134,0.5759051584112156
+Leggings,Sleep & Lounge,133,0.5767126434276907
+Sleep & Lounge,Socks & Hosiery,133,0.48743308997398105
+Shorts,Socks & Hosiery,132,0.4870174078981359
+Pants & Capris,Sweaters,132,0.5379940594727782
+Blazers & Jackets,Maternity,131,1.2294972661726133
+Plus,Sleep & Lounge,130,0.4158007493421246
+Pants & Capris,Swim,130,0.5151498991622713
+Leggings,Shorts,129,0.5631248960907187
+Fashion Hoodies & Sweatshirts,Pants & Capris,128,0.4879680959303369
+Pants & Capris,Tops & Tees,126,0.47808707836281367
+Fashion Hoodies & Sweatshirts,Leggings,124,0.5126949585843723
+Leggings,Maternity,123,1.1767400039110316
+Active,Leggings,120,0.638270906389016
+Intimates,Suits,118,1.3041168592399557
+Blazers & Jackets,Tops & Tees,118,0.47638188304835827
+Blazers & Jackets,Sleep & Lounge,118,0.501961842118748
+Active,Socks & Hosiery,118,0.5304706326320635
+Jeans,Leggings,118,0.4684677878840525
+Leggings,Plus,117,1.318783741855414
+Accessories,Socks & Hosiery,116,0.484930586372835
+Leggings,Tops & Tees,116,0.477364757684138
+Pants & Capris,Socks & Hosiery,116,1.3813739465662542
+Pants & Capris,Sleep & Lounge,116,0.46377775888160055
+Pants & Capris,Plus,115,1.1951699349601448
+Jeans,Pants & Capris,115,0.42095886871748944
+Accessories,Blazers & Jackets,114,0.5531612754037419
+Plus,Socks & Hosiery,112,1.0669922897615205
+Active,Pants & Capris,112,0.5492700541274986
+Blazers & Jackets,Socks & Hosiery,109,1.381072692498474
+Outerwear & Coats,Plus,109,0.428891431576102
+Blazers & Jackets,Sweaters,107,0.4640065331886375
+Pants & Capris,Shorts,104,0.4185934745570756
+Accessories,Pants & Capris,103,0.4697290005931224
+Outerwear & Coats,Socks & Hosiery,100,0.45086064099169737
+Leggings,Outerwear & Coats,99,0.5281070716325956
+Accessories,Leggings,98,0.48472132677336455
+Outerwear & Coats,Pants & Capris,97,0.47709253283121433
+Intimates,Jumpsuits & Rompers,91,1.175976456515357
+Leggings,Socks & Hosiery,91,1.1753049551257742
+Active,Blazers & Jackets,91,0.4748386489132347
+Leggings,Sweaters,89,0.3934136814625233
+Skirts,Swim,88,0.5873558332026837
+Blazers & Jackets,Outerwear & Coats,88,0.46052194044151945
+Blazers & Jackets,Pants & Capris,86,1.18871310980686
+Leggings,Pants & Capris,84,1.1835238708958844
+Maternity,Skirts,84,1.2480360672351247
+Blazers & Jackets,Leggings,82,1.229273039799917
+Dresses,Skirts,81,1.1304611134051814
+Skirts,Sleep & Lounge,79,0.5319947749975062
+Skirts,Socks & Hosiery,75,1.5043291881851952
+Fashion Hoodies & Sweatshirts,Skirts,75,0.48158291269626613
+Accessories,Skirts,73,0.5607397666233951
+Plus,Skirts,70,1.225344502376304
+Shorts,Skirts,70,0.4745538507198882
+Skirts,Tops & Tees,67,0.4281930467023872
+Skirts,Sweaters,67,0.45994584393481525
+Jeans,Skirts,67,0.413090277173377
+Active,Skirts,65,0.5369200270397
+Pants & Capris,Skirts,60,1.3128691096888976
+Outerwear & Coats,Skirts,60,0.4970619080897865
+Leggings,Skirts,59,1.4001613801599329
+Blazers & Jackets,Skirts,55,1.2804706780385888
+Maternity,Suits,51,1.444035959468058
+Suits,Swim,51,0.6487072804265637
+Dresses,Suits,47,1.2500530630920164
+Jumpsuits & Rompers,Swim,45,0.6692892390690924
+Suits,Tops & Tees,44,0.5358922375534576
+Sleep & Lounge,Suits,43,0.5518343278305974
+Jumpsuits & Rompers,Shorts,42,0.6344822350569844
+Shorts,Suits,42,0.5426211707221348
+Socks & Hosiery,Suits,40,1.5289792512014735
+Leggings,Suits,40,1.8090311959607877
+Accessories,Suits,39,0.5709039992825435
+Pants & Capris,Suits,39,1.6262779308233857
+Jumpsuits & Rompers,Maternity,38,1.2580971003980628
+Plus,Suits,36,1.2009437027618843
+Jeans,Suits,36,0.42299248644076226
+Active,Suits,34,0.5352234654416984
+Jumpsuits & Rompers,Tops & Tees,34,0.48420184456109655
+Jeans,Jumpsuits & Rompers,34,0.46712359230958195
+Dresses,Jumpsuits & Rompers,32,0.9951838089819504
+Jumpsuits & Rompers,Sleep & Lounge,32,0.4801898417599339
+Suits,Sweaters,32,0.4186410937910134
+Fashion Hoodies & Sweatshirts,Suits,31,0.3793424819828815
+Accessories,Jumpsuits & Rompers,30,0.5135023857871455
+Jumpsuits & Rompers,Sweaters,28,0.4283242293265338
+Jumpsuits & Rompers,Plus,28,1.0921968320393516
+Jumpsuits & Rompers,Socks & Hosiery,27,1.2067799818291944
+Clothing Sets,Intimates,26,1.497233182731332
+Blazers & Jackets,Suits,25,1.109192537143926
+Fashion Hoodies & Sweatshirts,Jumpsuits & Rompers,25,0.3577111923701924
+Active,Jumpsuits & Rompers,24,0.44176387930389377
+Jumpsuits & Rompers,Skirts,22,1.8067743740512998
+Jumpsuits & Rompers,Leggings,22,1.1634064797645458
+Blazers & Jackets,Jumpsuits & Rompers,21,1.089454150262467
+Jumpsuits & Rompers,Outerwear & Coats,21,0.387669149577113
+Skirts,Suits,17,1.1940085318569806
+Jumpsuits & Rompers,Pants & Capris,15,0.7313818071692088
+Outerwear & Coats,Suits,15,0.23681569021786122
+Clothing Sets,Maternity,14,2.0654631989914636
+Jumpsuits & Rompers,Suits,10,1.5650968713085949
+Clothing Sets,Sleep & Lounge,10,0.66868541560868
+Clothing Sets,Swim,10,0.6627659521385946
+Clothing Sets,Dresses,9,1.2472533921780367
+Clothing Sets,Jeans,9,0.5510033704952035
+Clothing Sets,Outerwear & Coats,8,0.6580983391317408
+Clothing Sets,Plus,8,1.3905663926716558
+Clothing Sets,Sweaters,8,0.545335109017241
+Clothing Sets,Fashion Hoodies & Sweatshirts,7,0.4463231579187383
+Clothing Sets,Shorts,7,0.471223648258696
+Clothing Sets,Pants & Capris,7,1.5209319919846236
+Blazers & Jackets,Clothing Sets,6,1.387074456975773
+Clothing Sets,Leggings,6,1.4139006978956683
+Clothing Sets,Skirts,6,2.1957927799475128
+Clothing Sets,Socks & Hosiery,6,1.1950179937022043
+Accessories,Clothing Sets,3,0.2288238701577806
+Active,Clothing Sets,3,0.2460702310157654
+Clothing Sets,Tops & Tees,3,0.19038276860451786
+Clothing Sets,Suits,1,0.697429132126988
+Tops & Tees,Swim,592,0.6851830358138705
+Shorts,Fashion Hoodies & Sweatshirts,581,0.6862381735825644
+Sweaters,Fashion Hoodies & Sweatshirts,575,0.6877189948968837
+Swim,Fashion Hoodies & Sweatshirts,573,0.6663225558013125
+Tops & Tees,Jeans,573,0.6126198626002125
+Jeans,Fashion Hoodies & Sweatshirts,571,0.6133629762469182
+Intimates,Dresses,570,1.2517611192000866
+Tops & Tees,Shorts,568,0.6677318293077531
+Sleep & Lounge,Jeans,561,0.6319966562044954
+Swim,Jeans,548,0.6118864220985559
+Shorts,Jeans,548,0.6214978976921308
+Sweaters,Jeans,545,0.625892924690416
+Tops & Tees,Fashion Hoodies & Sweatshirts,541,0.6023838944651669
+Tops & Tees,Sleep & Lounge,540,0.6305801805280381
+Tops & Tees,Sweaters,540,0.6428237842965181
+Maternity,Intimates,537,1.2554462658947878
+Swim,Sleep & Lounge,537,0.6548994844187099
+Intimates,Fashion Hoodies & Sweatshirts,522,0.5274196449705764
+Sleep & Lounge,Fashion Hoodies & Sweatshirts,521,0.6112646456186425
+Swim,Shorts,504,0.6187825893089874
+Sweaters,Sleep & Lounge,494,0.6196416388561609
+Sleep & Lounge,Shorts,494,0.6119221297598052
+Jeans,Accessories,491,0.6309451875966311
+Jeans,Intimates,489,0.47441129786590086
+Tops & Tees,Active,487,0.6975759336975726
+Sweaters,Shorts,485,0.6124386207662346
+Tops & Tees,Outerwear & Coats,481,0.6909881343434028
+Tops & Tees,Accessories,474,0.6313688035051997
+Swim,Intimates,474,0.4978206976613997
+Fashion Hoodies & Sweatshirts,Accessories,471,0.6303339259312473
+Shorts,Intimates,470,0.5013734277314614
+Swim,Accessories,468,0.651035149352491
+Swim,Sweaters,467,0.5805890811752056
+Sleep & Lounge,Intimates,466,0.49378988071720203
+Tops & Tees,Intimates,460,0.4625925486804242
+Sleep & Lounge,Accessories,458,0.642814586714626
+Intimates,Accessories,453,0.5475360162491013
+Swim,Outerwear & Coats,453,0.679637793890812
+Outerwear & Coats,Jeans,447,0.6194958466528678
+Sleep & Lounge,Outerwear & Coats,440,0.6660297944188122
+Jeans,Active,437,0.6038781659479507
+Sweaters,Pants,436,0.838793620809734
+Tops & Tees,Pants,434,0.7773046591415352
+Sweaters,Accessories,431,0.6166647672406972
+Underwear,Pants,428,1.1971516662441861
+Underwear,Jeans,428,0.7146346744604458
+Shorts,Accessories,426,0.6019175837039572
+Sweaters,Intimates,423,0.4569285103389874
+Underwear,Tops & Tees,422,0.7303775304646047
+Sweaters,Outerwear & Coats,420,0.6480998068840722
+Sleep & Lounge,Pants,419,0.7907351269672602
+Outerwear & Coats,Fashion Hoodies & Sweatshirts,416,0.6004320163717873
+Plus,Intimates,412,1.1348367099493037
+Shorts,Outerwear & Coats,412,0.6278347983494394
+Shorts,Active,406,0.6168949502943172
+Fashion Hoodies & Sweatshirts,Active,403,0.5799794045416731
+Underwear,Sleep & Lounge,392,0.7148854988689158
+Swim,Active,390,0.5834195003712099
+Pants,Jeans,390,0.6738628445897769
+Sweaters,Active,386,0.5939049169382262
+Sleep & Lounge,Active,385,0.5810837425633241
+Pants,Fashion Hoodies & Sweatshirts,385,0.6927990262792101
+Underwear,Sweaters,384,0.7138932336225702
+Underwear,Socks,379,1.2404621626400003
+Socks & Hosiery,Intimates,378,1.1930246359145442
+Underwear,Fashion Hoodies & Sweatshirts,372,0.6468787587497558
+Intimates,Active,369,0.479621459452747
+Shorts,Pants,367,0.6972527879133988
+Underwear,Accessories,363,0.755118771520676
+Underwear,Swim,363,0.6561382926172086
+Socks,Pants,361,1.2226949034889378
+Pants & Capris,Intimates,355,1.2222907525242805
+Outerwear & Coats,Intimates,353,0.46016113016644966
+Active,Accessories,352,0.6060087289923058
+Socks,Jeans,351,0.7096642483260935
+Outerwear & Coats,Accessories,350,0.6043203878273395
+Outerwear & Coats,Active,350,0.6498677665825415
+Swim,Pants,350,0.6546714348158917
+Underwear,Shorts,346,0.6352339570032811
+Underwear,Active,345,0.7717657245494459
+Pants,Outerwear & Coats,337,0.7823946399807068
+Sweaters,Socks,334,0.7518894702687019
+Intimates,Blazers & Jackets,333,1.2199082692918704
+Socks,Sleep & Lounge,333,0.7353602476053507
+Underwear,Suits & Sport Coats,332,1.2875467428713245
+Tops & Tees,Socks,331,0.6936948040288602
+Underwear,Outerwear & Coats,331,0.74260414858843
+Leggings,Intimates,324,1.209893341151756
+Socks,Shorts,323,0.7180680837684865
+Pants,Active,319,0.7384543671496389
+Socks,Fashion Hoodies & Sweatshirts,310,0.6527503890435448
+Swim,Socks,303,0.6631883406364812
+Suits & Sport Coats,Jeans,299,0.7163043816437646
+Pants,Accessories,295,0.6350343912696946
+Suits & Sport Coats,Pants,295,1.183895923495241
+Suits & Sport Coats,Fashion Hoodies & Sweatshirts,294,0.7335224073621005
+Tops & Tees,Suits & Sport Coats,290,0.7201435160257849
+Socks,Accessories,281,0.7078161313860896
+Suits & Sport Coats,Sleep & Lounge,274,0.7169470586482629
+Suits & Sport Coats,Shorts,271,0.7138599242875526
+Sweaters,Suits & Sport Coats,270,0.720197997234726
+Socks,Outerwear & Coats,268,0.7280641822549588
+Suits & Sport Coats,Accessories,260,0.7760113857524733
+Suits & Sport Coats,Socks,257,1.2068784675174762
+Maternity,Dresses,246,1.3840603881861688
+Socks,Active,238,0.6446868972498789
+Suits & Sport Coats,Outerwear & Coats,237,0.7628933463956538
+Swim,Suits & Sport Coats,235,0.6094565168578815
+Skirts,Intimates,231,1.3396350446468772
+Suits & Sport Coats,Active,230,0.7382106930472961
+Swim,Dresses,218,0.5509944059728485
+Jeans,Dresses,218,0.508977689694722
+Sleep & Lounge,Dresses,214,0.5457153010433549
+Swim,Maternity,207,0.5569783097780111
+Tops & Tees,Dresses,205,0.4961245876770274
+Fashion Hoodies & Sweatshirts,Dresses,196,0.4765823550657714
+Sleep & Lounge,Maternity,188,0.5103727146483343
+Maternity,Jeans,187,0.4647946285302607
+Maternity,Fashion Hoodies & Sweatshirts,185,0.4788845848853373
+Sweaters,Dresses,184,0.47832359138376657
+Shorts,Dresses,184,0.47236462561525466
+Dresses,Accessories,183,0.5323063759178879
+Swim,Plus,179,0.5674574273849018
+Plus,Dresses,179,1.1865479123909097
+Shorts,Maternity,176,0.4810048473068008
+Maternity,Accessories,171,0.5295219046599922
+Swim,Socks & Hosiery,171,0.6211518976437386
+Socks & Hosiery,Maternity,170,1.3746111537244015
+Tops & Tees,Maternity,170,0.4379888480004221
+Plus,Maternity,166,1.1714333339974365
+Plus,Fashion Hoodies & Sweatshirts,165,0.5032170989281599
+Dresses,Active,162,0.5067378486172117
+Plus,Accessories,160,0.5837408939409675
+Pants & Capris,Dresses,159,1.3174659083111357
+Shorts,Plus,158,0.5087520690770609
+Socks & Hosiery,Fashion Hoodies & Sweatshirts,158,0.5521409835461755
+Sweaters,Maternity,156,0.4317236279719825
+Socks & Hosiery,Dresses,156,1.1848907225691347
+Plus,Jeans,156,0.4568318853560233
+Socks & Hosiery,Jeans,155,0.5200977327270432
+Maternity,Active,153,0.5094915680646936
+Tops & Tees,Socks & Hosiery,152,0.5286783035863919
+Tops & Tees,Plus,150,0.4553210270122035
+Outerwear & Coats,Dresses,149,0.46743107668202555
+Sweaters,Plus,146,0.4760432283819735
+Dresses,Blazers & Jackets,143,1.260709622971624
+Outerwear & Coats,Maternity,142,0.4742386001542298
+Jeans,Blazers & Jackets,141,0.5491584931386349
+Leggings,Dresses,141,1.267118633919211
+Plus,Active,141,0.5531934116569808
+Shorts,Blazers & Jackets,139,0.5952654600053651
+Swim,Blazers & Jackets,139,0.5860596695082684
+Pants & Capris,Maternity,137,1.2084816773919338
+Sweaters,Socks & Hosiery,136,0.5081055006131794
+Fashion Hoodies & Sweatshirts,Blazers & Jackets,135,0.5475855708202633
+Plus,Blazers & Jackets,135,1.49280250999001
+Swim,Leggings,134,0.5759051584112156
+Sleep & Lounge,Leggings,133,0.5767126434276907
+Socks & Hosiery,Sleep & Lounge,133,0.48743308997398105
+Socks & Hosiery,Shorts,132,0.4870174078981359
+Sweaters,Pants & Capris,132,0.5379940594727782
+Maternity,Blazers & Jackets,131,1.2294972661726133
+Sleep & Lounge,Plus,130,0.4158007493421246
+Swim,Pants & Capris,130,0.5151498991622713
+Shorts,Leggings,129,0.5631248960907187
+Pants & Capris,Fashion Hoodies & Sweatshirts,128,0.4879680959303369
+Tops & Tees,Pants & Capris,126,0.47808707836281367
+Leggings,Fashion Hoodies & Sweatshirts,124,0.5126949585843723
+Maternity,Leggings,123,1.1767400039110316
+Leggings,Active,120,0.638270906389016
+Suits,Intimates,118,1.3041168592399557
+Tops & Tees,Blazers & Jackets,118,0.47638188304835827
+Sleep & Lounge,Blazers & Jackets,118,0.501961842118748
+Socks & Hosiery,Active,118,0.5304706326320635
+Leggings,Jeans,118,0.4684677878840525
+Plus,Leggings,117,1.318783741855414
+Socks & Hosiery,Accessories,116,0.484930586372835
+Tops & Tees,Leggings,116,0.477364757684138
+Socks & Hosiery,Pants & Capris,116,1.3813739465662542
+Sleep & Lounge,Pants & Capris,116,0.46377775888160055
+Plus,Pants & Capris,115,1.1951699349601448
+Pants & Capris,Jeans,115,0.42095886871748944
+Blazers & Jackets,Accessories,114,0.5531612754037419
+Socks & Hosiery,Plus,112,1.0669922897615205
+Pants & Capris,Active,112,0.5492700541274986
+Socks & Hosiery,Blazers & Jackets,109,1.381072692498474
+Plus,Outerwear & Coats,109,0.428891431576102
+Sweaters,Blazers & Jackets,107,0.4640065331886375
+Shorts,Pants & Capris,104,0.4185934745570756
+Pants & Capris,Accessories,103,0.4697290005931224
+Socks & Hosiery,Outerwear & Coats,100,0.45086064099169737
+Outerwear & Coats,Leggings,99,0.5281070716325956
+Leggings,Accessories,98,0.48472132677336455
+Pants & Capris,Outerwear & Coats,97,0.47709253283121433
+Jumpsuits & Rompers,Intimates,91,1.175976456515357
+Socks & Hosiery,Leggings,91,1.1753049551257742
+Blazers & Jackets,Active,91,0.4748386489132347
+Sweaters,Leggings,89,0.3934136814625233
+Swim,Skirts,88,0.5873558332026837
+Outerwear & Coats,Blazers & Jackets,88,0.46052194044151945
+Pants & Capris,Blazers & Jackets,86,1.18871310980686
+Pants & Capris,Leggings,84,1.1835238708958844
+Skirts,Maternity,84,1.2480360672351247
+Leggings,Blazers & Jackets,82,1.229273039799917
+Skirts,Dresses,81,1.1304611134051814
+Sleep & Lounge,Skirts,79,0.5319947749975062
+Socks & Hosiery,Skirts,75,1.5043291881851952
+Skirts,Fashion Hoodies & Sweatshirts,75,0.48158291269626613
+Skirts,Accessories,73,0.5607397666233951
+Skirts,Plus,70,1.225344502376304
+Skirts,Shorts,70,0.4745538507198882
+Tops & Tees,Skirts,67,0.4281930467023872
+Sweaters,Skirts,67,0.45994584393481525
+Skirts,Jeans,67,0.413090277173377
+Skirts,Active,65,0.5369200270397
+Skirts,Pants & Capris,60,1.3128691096888976
+Skirts,Outerwear & Coats,60,0.4970619080897865
+Skirts,Leggings,59,1.4001613801599329
+Skirts,Blazers & Jackets,55,1.2804706780385888
+Suits,Maternity,51,1.444035959468058
+Swim,Suits,51,0.6487072804265637
+Suits,Dresses,47,1.2500530630920164
+Swim,Jumpsuits & Rompers,45,0.6692892390690924
+Tops & Tees,Suits,44,0.5358922375534576
+Suits,Sleep & Lounge,43,0.5518343278305974
+Shorts,Jumpsuits & Rompers,42,0.6344822350569844
+Suits,Shorts,42,0.5426211707221348
+Suits,Socks & Hosiery,40,1.5289792512014735
+Suits,Leggings,40,1.8090311959607877
+Suits,Accessories,39,0.5709039992825435
+Suits,Pants & Capris,39,1.6262779308233857
+Maternity,Jumpsuits & Rompers,38,1.2580971003980628
+Suits,Plus,36,1.2009437027618843
+Suits,Jeans,36,0.42299248644076226
+Suits,Active,34,0.5352234654416984
+Tops & Tees,Jumpsuits & Rompers,34,0.48420184456109655
+Jumpsuits & Rompers,Jeans,34,0.46712359230958195
+Jumpsuits & Rompers,Dresses,32,0.9951838089819504
+Sleep & Lounge,Jumpsuits & Rompers,32,0.4801898417599339
+Sweaters,Suits,32,0.4186410937910134
+Suits,Fashion Hoodies & Sweatshirts,31,0.3793424819828815
+Jumpsuits & Rompers,Accessories,30,0.5135023857871455
+Sweaters,Jumpsuits & Rompers,28,0.4283242293265338
+Plus,Jumpsuits & Rompers,28,1.0921968320393516
+Socks & Hosiery,Jumpsuits & Rompers,27,1.2067799818291944
+Intimates,Clothing Sets,26,1.497233182731332
+Suits,Blazers & Jackets,25,1.109192537143926
+Jumpsuits & Rompers,Fashion Hoodies & Sweatshirts,25,0.3577111923701924
+Jumpsuits & Rompers,Active,24,0.44176387930389377
+Skirts,Jumpsuits & Rompers,22,1.8067743740512998
+Leggings,Jumpsuits & Rompers,22,1.1634064797645458
+Jumpsuits & Rompers,Blazers & Jackets,21,1.089454150262467
+Outerwear & Coats,Jumpsuits & Rompers,21,0.387669149577113
+Suits,Skirts,17,1.1940085318569806
+Pants & Capris,Jumpsuits & Rompers,15,0.7313818071692088
+Suits,Outerwear & Coats,15,0.23681569021786122
+Maternity,Clothing Sets,14,2.0654631989914636
+Suits,Jumpsuits & Rompers,10,1.5650968713085949
+Sleep & Lounge,Clothing Sets,10,0.66868541560868
+Swim,Clothing Sets,10,0.6627659521385946
+Dresses,Clothing Sets,9,1.2472533921780367
+Jeans,Clothing Sets,9,0.5510033704952035
+Outerwear & Coats,Clothing Sets,8,0.6580983391317408
+Plus,Clothing Sets,8,1.3905663926716558
+Sweaters,Clothing Sets,8,0.545335109017241
+Fashion Hoodies & Sweatshirts,Clothing Sets,7,0.4463231579187383
+Shorts,Clothing Sets,7,0.471223648258696
+Pants & Capris,Clothing Sets,7,1.5209319919846236
+Clothing Sets,Blazers & Jackets,6,1.387074456975773
+Leggings,Clothing Sets,6,1.4139006978956683
+Skirts,Clothing Sets,6,2.1957927799475128
+Socks & Hosiery,Clothing Sets,6,1.1950179937022043
+Clothing Sets,Accessories,3,0.2288238701577806
+Clothing Sets,Active,3,0.2460702310157654
+Tops & Tees,Clothing Sets,3,0.19038276860451786
+Suits,Clothing Sets,1,0.697429132126988

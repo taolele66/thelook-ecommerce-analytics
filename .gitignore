@@ -7,7 +7,7 @@ __pycache__/
 .ipynb_checkpoints/
 models/*.pkl
 models/*.joblib
-data/
+/data/
 .streamlit/secrets.toml
 .streamlit_launch_check.sh
 .agents/

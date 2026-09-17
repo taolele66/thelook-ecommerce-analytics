@@ -4,7 +4,7 @@ An end-to-end analytics project on Google BigQuery's public
 [`thelook_ecommerce`](https://console.cloud.google.com/marketplace/product/bigquery-public-data/thelook-ecommerce)
 dataset: SQL data marts, RFM segmentation, cohort retention, funnel analysis,
 market-basket rules, and churn/CLV prediction models, surfaced through a
-Looker Studio dashboard and a Streamlit app.
+Looker Studio dashboard, a Streamlit app, and a Tableau workbook.
 
 This extends an earlier, simpler RFM dashboard (business KPIs only) with a
 proper mart layer, time-safe ML labels, and a second, code-facing
@@ -34,6 +34,7 @@ flowchart LR
     C --> S
     D --> S
     G --> S
+    C --> T[src/export_tableau.py] --> U[Tableau workbook]
 ```
 
 ## What's in each layer
@@ -50,6 +51,7 @@ flowchart LR
 | CLV model | `src/train_clv_model.py` | GradientBoostingRegressor + BG/NBD + Gamma-Gamma baseline |
 | Basket rules | `src/basket_analysis.py` | mlxtend Apriori → support/confidence/lift |
 | App | `app/streamlit_app.py` | Interactive cohort heatmap, funnel, basket rules, live predictions |
+| Tableau | `src/export_tableau.py`, [`tableau/`](tableau/README.md) | Country map, RFM quadrant scatter, cohort highlight table, category-affinity heatmap, linked via dashboard actions |
 
 The churn/CLV labels are built with a strict time-based split (features from
 before a 90-day-prior cutoff, labels from after it) so the model is
@@ -78,10 +80,17 @@ python -m src.basket_analysis
 
 # 3. Explore
 streamlit run app/streamlit_app.py
+
+# 4. (optional) Export CSVs for the Tableau workbook — see tableau/README.md
+python -m src.export_tableau
 ```
 
 The Looker Studio dashboard is built on top of the same `thelook_marts.*`
-tables: [dashboard link — add after publishing].
+tables: [dashboard link — add after publishing]. The Tableau workbook
+(built from `tableau/data/*.csv`, since Tableau Public's free tier has no
+live BigQuery connector) adds a country map, an RFM quadrant scatter, and a
+linked click-to-filter dashboard — see [`tableau/README.md`](tableau/README.md):
+[workbook link — add after publishing].
 
 ## Key findings
 
@@ -121,7 +130,7 @@ Looker Studio dashboard.
 ## Tech stack
 
 BigQuery (SQL) · Python (pandas, scikit-learn, lifetimes, mlxtend) ·
-Streamlit · Plotly · Looker Studio
+Streamlit · Plotly · Looker Studio · Tableau
 
 ## License
 
