@@ -125,8 +125,18 @@ see [`tableau/README.md`](tableau/README.md):
 
 ## Screenshots
 
-`docs/screenshots/` — add after running the Streamlit app and exporting the
-Looker Studio dashboard.
+**Looker Studio** (business KPIs, segments, retention, return rate)
+
+![Looker Studio dashboard, page 1](docs/screenshots/looker_studio_dashboard_1.png)
+![Looker Studio dashboard, page 2](docs/screenshots/looker_studio_dashboard_2.png)
+
+**Streamlit** (Overview tab)
+
+![Streamlit app, Overview tab](docs/screenshots/streamlit_overview.png)
+
+**Tableau** (country map, RFM quadrant, cohort retention, category affinity)
+
+![Tableau dashboard](docs/screenshots/tableau_dashboard.png)
 
 ## Tech stack
 
