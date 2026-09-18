@@ -88,9 +88,10 @@ python -m src.export_tableau
 The Looker Studio dashboard is built on top of the same `thelook_marts.*`
 tables: [dashboard link — add after publishing]. The Tableau workbook
 (built from `tableau/data/*.csv`, since Tableau Public's free tier has no
-live BigQuery connector) adds a country map, an RFM quadrant scatter, and a
-linked click-to-filter dashboard — see [`tableau/README.md`](tableau/README.md):
-[workbook link — add after publishing].
+live BigQuery connector) adds a country map, an RFM quadrant scatter, a
+cohort highlight table, and a category-affinity heatmap on one dashboard —
+see [`tableau/README.md`](tableau/README.md):
+[TheLook E-commerce Analytics](https://public.tableau.com/app/profile/winter.lee/viz/TheLookE-commerceAnalytics/E-commerceCustomerAnalytics).
 
 ## Key findings
 

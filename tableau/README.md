@@ -18,7 +18,7 @@ python -m src.export_tableau
 | File | Chart | Build notes |
 |---|---|---|
 | `country_gmv_map.csv` | Filled/symbol map of GMV & users by country | Country names are pre-normalized (`Brasil`→`Brazil`, `Deutschland`→`Germany` — this dataset has both spellings for the same country) so Tableau's built-in geocoding resolves every row. Drag `country` to the map, `users` or `gmv` to color/size. |
-| `rfm_user_detail.csv` | RFM quadrant scatter | X = `frequency`, Y = `monetary`, color = `user_segment` (keep the segment colors below), size = `recency_days` (inverted, so recent = larger). Add two reference lines at the median of each axis to split the four quadrants. One row per user (72K) — expect Tableau to sample/aggregate at low zoom; that's expected. |
+| `rfm_user_detail.csv` | RFM quadrant scatter | X = `frequency`, Y = `monetary`, color = `user_segment` (keep the segment colors below), size = `recency_days` (inverted, so recent = larger). Add two reference lines at the median of each axis to split the four quadrants. Also carries `country` (normalized the same way as the map export) so a filter action can link it to the map — see Dashboard actions below. One row per user (72K); in Tableau, turn off **Analysis → Aggregate Measures** so `frequency`/`monetary` plot per-user instead of summing overlapping points, and set the size field's aggregation to **Average** (not Sum), or a handful of overlapping points will render as one oversized mark. |
 | `cohort_retention.csv` | Cohort highlight table | Rows = `cohort_month`, columns = `months_since_signup`, color + label = `retention_rate`. Use Analysis → Create Calculated Field only if you want a %-formatted label; the raw column is already 0–1. |
 | `category_affinity_matrix.csv` | Category × category lift heatmap | Already mirrored into a full square matrix (both `(A,B)` and `(B,A)` rows), so `category_a` on rows and `category_b` on columns works directly — no calculated field needed. Color by `lift`; a diverging palette centered at 1.0 reads best (below 1 = bought together less than chance, above 1 = more). |
 
@@ -38,15 +38,23 @@ identity across every artifact in this repo — colors are the Wong (2011,
 
 ## Dashboard actions
 
-Put all four sheets on one dashboard and add a **filter action**: source =
-the RFM quadrant scatter (or the segment field on any sheet), target = the
-other three sheets, run on select. Clicking a segment (or a country on the
-map) then filters the whole dashboard to it — this is the specific Tableau
-capability that's worth calling out on a resume over a static screenshot.
+The four CSVs each feed one chart and otherwise share no common field —
+`cohort_retention.csv` and `category_affinity_matrix.csv` are global
+aggregates with no country or segment column, so they can't be filtered by
+the other charts. The one pair that *can* link is the map and the RFM
+scatter, since `rfm_user_detail.csv` carries `country`: add a **filter
+action** (Dashboard → Actions → Add Action → Filter) with source = the map,
+target = the RFM scatter, field = Country → Country, run on select.
+Clicking a country on the map then filters the scatter to it.
 
 ## Publishing
 
-Publish the finished workbook to Tableau Public (not Tableau Cloud — the
-Cloud trial expires; Public is free indefinitely and gives a stable
-shareable link). Add that link and a screenshot to the main
-[README](../README.md#screenshots) once published.
+Tableau Public only accepts workbooks whose data sources are **extracts**,
+not live file connections — a workbook built in Tableau Cloud (which uses
+live connections) will fail to publish with "must use an extract" until
+each data source is converted (right-click the connection → Extract Data).
+The simpler path: build directly in **Tableau Public Desktop** (free)
+connected straight to the CSVs in `tableau/data/` — Public Desktop only
+ever creates extracts, so this sidesteps the conversion step entirely.
+
+Published workbook: [TheLook E-commerce Analytics](https://public.tableau.com/app/profile/winter.lee/viz/TheLookE-commerceAnalytics/E-commerceCustomerAnalytics).
